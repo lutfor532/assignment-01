@@ -287,3 +287,26 @@
 .submit-form h1 {
     font-size: 38px;
 }
+
+/* footer code start */
+
+footer {
+    height: 172px;
+    width: 100%;
+    background: black;
+}
+
+footer h1 {
+    color: #ef5f45;
+    text-align: center;
+    padding-top: 26px;
+    padding-bottom: 9px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+footer p {
+    text-align: center;
+    color: #aca7a7;
+
+}
